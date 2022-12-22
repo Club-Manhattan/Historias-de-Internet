@@ -1,6 +1,6 @@
-# Obsidian Notes
+# Historia de Internet
 
-Publish your public notes with MkDocs
+Publica tus notas con MkDocs
 
 ## Hello World!
 
